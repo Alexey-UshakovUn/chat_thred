@@ -21,3 +21,7 @@ while True:
             client_conn.send(response.encode())
     print('end send')
     client_conn.close()
+
+#
+# if __name__ == '__main__':
+#

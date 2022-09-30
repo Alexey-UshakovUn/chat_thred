@@ -1,0 +1,13 @@
+class CantReceiving(Exception):
+    ...
+
+
+class CantAppendClient(Exception):
+    ...
+
+
+class CantGetSocket(Exception):
+    ...
+
+class MassageIsNone(Exception):
+    ...
